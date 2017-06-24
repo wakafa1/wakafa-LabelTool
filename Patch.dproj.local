@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/05/10 18:25:41.000.452,=C:\Users\wakaf\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2017/05/10 19:28:42.000.695,C:\Users\wakaf\Documents\Embarcadero\Studio\Projects\Project3.dproj=C:\Users\wakaf\Documents\Embarcadero\Studio\Projects\Patch.dproj</Transaction>
+    <Transaction>2017/05/10 19:29:01.000.989,C:\Users\wakaf\Documents\Embarcadero\Studio\Projects\Patch.dproj=C:\Users\wakaf\Documents\Embarcadero\Studio\Projects\Patch.dproj</Transaction>
+    <Transaction>2017/05/10 19:29:09.000.738,C:\Users\wakaf\Documents\Embarcadero\Studio\Projects\main.pas=C:\Users\wakaf\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2017/05/10 19:29:09.000.738,C:\Users\wakaf\Documents\Embarcadero\Studio\Projects\main.dfm=C:\Users\wakaf\Documents\Embarcadero\Studio\Projects\Unit3.dfm</Transaction>
+    <Transaction>2017/05/10 19:29:09.000.722,C:\Users\wakaf\Documents\Embarcadero\Studio\Projects\Unit3.pas=C:\Users\wakaf\Documents\Embarcadero\Studio\Projects\main.pas</Transaction>
+    <Transaction>2017/05/10 19:29:09.000.722,C:\Users\wakaf\Documents\Embarcadero\Studio\Projects\Unit3.dfm=C:\Users\wakaf\Documents\Embarcadero\Studio\Projects\main.dfm</Transaction>
+    <Transaction>2017/05/30 15:14:31.000.735,=C:\Users\wakaf\Desktop\uLkJSON.pas</Transaction>
+    <Transaction>2017/05/30 15:14:54.000.076,C:\Users\wakaf\Desktop\uLkJSON.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
