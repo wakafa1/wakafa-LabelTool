@@ -1,4 +1,5 @@
-# LableTool_image
+# wakafa-LabelTool
 **Tool used to lable coordinate information of images**
 
-made by Delphi
+Made by Delphi
+More customized releases are available, please contact wakafa if desired
